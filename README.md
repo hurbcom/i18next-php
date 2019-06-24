@@ -66,12 +66,12 @@ You can have html content written with multilines in JSON File
 	"en": {
 		"common": {
 			"thedoglovers": [
-                "The Dog Lovers by Spike Milligan",
-                "So they bought you",
-                "And kept you in a",
-                "Very good home"
-            ]
-        }
+				"The Dog Lovers by Spike Milligan",
+				"So they bought you",
+				"And kept you in a",
+				"Very good home"
+			]
+		}
 	}
 }
 ```
